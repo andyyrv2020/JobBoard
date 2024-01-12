@@ -1,10 +1,6 @@
-﻿namespace JobBoard
+﻿using System;
+
+public class Program
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
+    // Код на класа Startup тук
 }
